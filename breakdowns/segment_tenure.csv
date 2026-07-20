@@ -1,0 +1,4 @@
+seller_tenure_bucket,total_orders,problem_orders,cancellation_rate_pct
+0-30 days (new),12253,132,1.08
+30-90 days,16451,85,0.52
+90+ days (established),83946,332,0.4

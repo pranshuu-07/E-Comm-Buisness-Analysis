@@ -1,0 +1,16 @@
+category,seller_type,order_volume,cancel_rate_pct,impact_score
+esporte_lazer,established_seller,6896,0.62,4300.0
+informatica_acessorios,established_seller,5934,0.72,4300.0
+utilidades_domesticas,established_seller,5104,0.84,4300.0
+beleza_saude,established_seller,7731,0.39,3000.0
+moveis_decoracao,established_seller,5949,0.45,2700.0
+brinquedos,established_seller,3500,0.71,2500.0
+relogios_presentes,established_seller,5281,0.36,1900.0
+bebes,established_seller,2548,0.71,1800.0
+automotivo,established_seller,3348,0.51,1700.0
+cama_mesa_banho,established_seller,8788,0.18,1600.0
+automotivo,new_seller,557,2.51,1400.0
+ferramentas_jardim,established_seller,3254,0.43,1400.0
+cool_stuff,established_seller,3310,0.39,1300.0
+,established_seller,1192,0.92,1100.0
+papelaria,established_seller,2080,0.53,1100.0
